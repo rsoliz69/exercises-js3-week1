@@ -33,7 +33,3 @@ r.sayName();
 console.log('The area of this polygon is ' + r.area);
 
 //Create 2 new classes that extend from polygon: triangle and circle and log their names and areas
-
-
-
-
